@@ -4,4 +4,4 @@
 - start
 - restart
 - marking the laps
-- 
+- osm ui
